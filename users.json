@@ -8,3 +8,13 @@
     "isAdmin": true
   }
 ] 
+[
+  {
+    "id": "2",
+    "name": "Rahul Sharma",
+    "email": "rahul@srms.edu",
+    "aktuNumber": "AKTU123456",
+    "password": "abcabc",
+    "isAdmin": false
+  }
+] 
