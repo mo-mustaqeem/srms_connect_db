@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "title": "Python for Data Science",
+    "description": "Learn Python programming for data analysis and machine learning",
+    "type": "Online",
+    "duration": "8 weeks",
+    "price": "₹999",
+    "instructor": "Dr. Sarah Wilson",
+    "category": "Data Science",
+    "rating": 4.8,
+    "enrolled": 1250,
+    "suitableFor": "Beginners to Intermediate",
+    "createdAt": "2023-12-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "title": "Web Development Bootcamp",
+    "description": "Comprehensive web development course covering HTML, CSS, JavaScript",
+    "type": "Hybrid",
+    "duration": "12 weeks",
+    "price": "₹1499",
+    "instructor": "Prof. James Brown",
+    "category": "Web Development",
+    "rating": 4.9,
+    "enrolled": 980,
+    "suitableFor": "Beginners",
+    "createdAt": "2023-12-01T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "title": "Mobile App Development",
+    "description": "Learn to build mobile apps using Flutter and React Native",
+    "type": "Online",
+    "duration": "10 weeks",
+    "price": "₹1299",
+    "instructor": "Ms. Emily Chen",
+    "category": "Mobile Development",
+    "rating": 4.7,
+    "enrolled": 750,
+    "suitableFor": "Intermediate",
+    "createdAt": "2023-12-01T10:00:00Z"
+  }
+] 

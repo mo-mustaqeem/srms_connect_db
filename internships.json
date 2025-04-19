@@ -1,0 +1,19 @@
+[
+  {
+    "id": "1",
+    "title": "Software Developer Intern",
+    "company": "Tech Corp",
+    "description": "Work on real-world projects using modern technologies",
+    "duration": "3 months",
+    "stipend": "₹20,000/month",
+    "location": "Remote",
+    "requirements": "Knowledge of Python, JavaScript, and Git",
+    "contactName": "HR Manager",
+    "contactEmail": "hr@techcorp.com",
+    "category": "Software Development",
+    "type": "Full-time",
+    "positions": 5,
+    "deadline": "30 Jun 2024",
+    "createdAt": "2023-12-01T10:00:00Z"
+  }
+] 

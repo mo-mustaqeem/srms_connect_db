@@ -1,0 +1,72 @@
+[
+  {
+    "id": "1",
+    "title": "Data Structures and Algorithms",
+    "description": "Comprehensive guide to DS & Algorithms with practical examples",
+    "subject": "Computer Science",
+    "uploadDate": "2023-11-15T10:00:00Z",
+    "fileSize": "2.4 MB",
+    "uploadedBy": "Prof. Robert Johnson",
+    "type": "PDF",
+    "downloads": 342,
+    "semester": "3rd Semester",
+    "course": "B.Tech",
+    "stream": "Computer Science & Engineering"
+  },
+  {
+    "id": "2",
+    "title": "Introduction to Machine Learning",
+    "description": "Beginner-friendly guide to machine learning concepts and applications",
+    "subject": "Artificial Intelligence",
+    "uploadDate": "2023-10-20T14:30:00Z",
+    "fileSize": "3.8 MB",
+    "uploadedBy": "Dr. Emily Chen",
+    "type": "PDF",
+    "downloads": 287,
+    "semester": "6th Semester",
+    "course": "B.Tech",
+    "stream": "Computer Science & Engineering"
+  },
+  {
+    "id": "3",
+    "title": "Digital Electronics Fundamentals",
+    "description": "Core concepts of digital electronics with circuit diagrams",
+    "subject": "Electronics",
+    "uploadDate": "2023-09-10T09:15:00Z",
+    "fileSize": "5.1 MB",
+    "uploadedBy": "Prof. Michael Smith",
+    "type": "PDF",
+    "downloads": 201,
+    "semester": "2nd Semester",
+    "course": "B.Tech",
+    "stream": "Electronics & Communication"
+  },
+  {
+    "id": "4",
+    "title": "Organic Chemistry Notes",
+    "description": "Detailed notes on organic compounds and reactions",
+    "subject": "Chemistry",
+    "uploadDate": "2023-11-05T11:20:00Z",
+    "fileSize": "1.9 MB",
+    "uploadedBy": "Dr. Sarah Williams",
+    "type": "PDF",
+    "downloads": 176,
+    "semester": "1st Semester",
+    "course": "B.Sc",
+    "stream": "Chemistry"
+  },
+  {
+    "id": "5",
+    "title": "Calculus Reference Guide",
+    "description": "Comprehensive reference for differential and integral calculus",
+    "subject": "Mathematics",
+    "uploadDate": "2023-10-12T16:45:00Z",
+    "fileSize": "2.7 MB",
+    "uploadedBy": "Prof. James Anderson",
+    "type": "PDF",
+    "downloads": 310,
+    "semester": "1st Semester",
+    "course": "B.Tech",
+    "stream": "All Engineering Streams"
+  }
+] 

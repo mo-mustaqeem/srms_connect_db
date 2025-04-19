@@ -1,0 +1,10 @@
+[
+  {
+    "id": "1",
+    "name": "Admin",
+    "email": "admin@srms.edu",
+    "aktuNumber": "ADMIN001",
+    "password": "admin123",
+    "isAdmin": true
+  }
+] 

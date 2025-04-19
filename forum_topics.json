@@ -1,0 +1,66 @@
+[
+  {
+    "id": "1",
+    "title": "Internship Opportunities at Google",
+    "description": "Hey everyone! I recently got an internship at Google and wanted to share my experience and tips for the interview process.",
+    "category": "Career",
+    "author": "John Doe",
+    "time": "2 hours ago",
+    "timestamp": "2023-12-10T10:00:00Z",
+    "comments": 15,
+    "replies": [
+      {
+        "author": "Jane Smith",
+        "content": "Congratulations! Could you share some specific interview questions you were asked?",
+        "time": "1 hour ago",
+        "timestamp": "2023-12-10T11:00:00Z",
+        "attachment": null
+      },
+      {
+        "author": "Mike Johnson",
+        "content": "What was the most challenging part of the interview process?",
+        "time": "45 minutes ago",
+        "timestamp": "2023-12-10T11:15:00Z",
+        "attachment": null
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "title": "Upcoming Tech Fest Schedule",
+    "description": "The annual tech fest is coming up next month. Here's the complete schedule of events and workshops.",
+    "category": "Events",
+    "author": "Event Committee",
+    "time": "5 hours ago",
+    "timestamp": "2023-12-10T07:00:00Z",
+    "comments": 8,
+    "replies": [
+      {
+        "author": "Sarah Wilson",
+        "content": "Will there be any workshops on AI/ML?",
+        "time": "4 hours ago",
+        "timestamp": "2023-12-10T08:00:00Z",
+        "attachment": null
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "title": "Data Structures Study Group",
+    "description": "Looking for students interested in forming a study group for Data Structures. We'll meet twice a week.",
+    "category": "Academic",
+    "author": "Jane Smith",
+    "time": "1 day ago",
+    "timestamp": "2023-12-09T12:00:00Z",
+    "comments": 12,
+    "replies": [
+      {
+        "author": "Alex Brown",
+        "content": "I'm interested! What topics will you be covering?",
+        "time": "20 hours ago",
+        "timestamp": "2023-12-09T16:00:00Z",
+        "attachment": null
+      }
+    ]
+  }
+] 

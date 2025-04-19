@@ -1,0 +1,44 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "batch": "2020",
+    "degree": "B.Tech",
+    "branch": "Computer Science",
+    "company": "Google",
+    "position": "Software Engineer",
+    "location": "Bangalore",
+    "email": "john.doe@gmail.com",
+    "linkedin": "linkedin.com/in/johndoe",
+    "achievements": "Led the development of Google Maps feature",
+    "createdAt": "2023-12-01T10:00:00Z"
+  },
+  {
+    "id": "2",
+    "name": "Jane Smith",
+    "batch": "2019",
+    "degree": "B.Tech",
+    "branch": "Electronics",
+    "company": "Microsoft",
+    "position": "Product Manager",
+    "location": "Hyderabad",
+    "email": "jane.smith@outlook.com",
+    "linkedin": "linkedin.com/in/janesmith",
+    "achievements": "Launched successful product with 1M+ users",
+    "createdAt": "2023-12-01T10:00:00Z"
+  },
+  {
+    "id": "3",
+    "name": "Mike Johnson",
+    "batch": "2018",
+    "degree": "B.Tech",
+    "branch": "Mechanical",
+    "company": "Tesla",
+    "position": "Senior Engineer",
+    "location": "Mumbai",
+    "email": "mike.j@tesla.com",
+    "linkedin": "linkedin.com/in/mikej",
+    "achievements": "Patent holder for innovative EV battery design",
+    "createdAt": "2023-12-01T10:00:00Z"
+  }
+] 
